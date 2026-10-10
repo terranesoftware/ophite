@@ -1,7 +1,4 @@
-from . import account
-from . import addressing
-from . import keys
-from . import target
+from . import account, addressing, keys, target
 
 __all__ = [
     "account",
